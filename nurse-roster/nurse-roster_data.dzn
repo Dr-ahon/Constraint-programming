@@ -1,0 +1,5 @@
+num_nurses = 10;
+num_days = 10;
+req_day = 5;
+req_night = 4;
+min_night = 5   ;

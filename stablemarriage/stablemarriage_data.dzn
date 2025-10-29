@@ -1,0 +1,8 @@
+men = {A, B, C};
+women = {X, Y, Z};
+pref_men = [|Y, X, Z|
+             Z, Y, X|
+             X, Z, Y|];
+pref_women = [|B, A, C|
+               C, B, A|
+               A, C, B|];

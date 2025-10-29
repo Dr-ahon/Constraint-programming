@@ -1,0 +1,3 @@
+Items = {TV, Desktop, Laptop, Tablet, Vase, Bottle, Jacket};
+weights = [15, 11, 5, 1, 7, 3, 4];
+prices = [500, 350, 230, 115, 180, 75, 125];
